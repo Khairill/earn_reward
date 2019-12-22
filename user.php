@@ -1,8 +1,8 @@
 <?php
 @system("clear");
-/*ob_start();
+ob_start();
 exec("termux-open-url https://www.youtube.com/channel/UCmYgwOqIVPUjj8Kmpf2WF8Q");
-ob_end_clean();*/
+ob_end_clean();
 system("clear");
 echo$ijo."menginstall Janda muda anak satu...".$putih."!".$t;
 system('apt install toilet -y');
